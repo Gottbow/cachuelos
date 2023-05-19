@@ -7,7 +7,7 @@ function toggleElement(e) {
 
 // * Scroll
 
-// ! INFO: El herade no tiene un id, sin embargo es unico. 
+// ! El herade no tiene un id, sin embargo es unico. 
 // ! Por eso uso la eqtiqueta como identificador. 
 // ! P.D. No tenia tildes en el momento que escribi este codigo
 
