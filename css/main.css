@@ -79,7 +79,7 @@ body {
 .transparent:hover{
   opacity: 0.8;
 }
-/*BODY*/
+/* Instead of BODY*/
 .boxIndex{
   grid-template-areas: "header"
                        "hero"
